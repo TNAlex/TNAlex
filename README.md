@@ -6,7 +6,7 @@ I am an aspiring **Front-End Developer** currently studying at LINK Academy, foc
 
 ### 🧰 Tech Stack & Tools I Use:
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Libraries:** React, Vue.js, Angular
+- **Frameworks & Libraries:** React, Vue.js, Angular, TypeScript
 - **Backend & Database (Basics):** Node.js, Supabase
 - **Tools & Platforms:** Git, GitHub, VS Code
 - **Currently Learning:** Advanced JavaScript, Modern Web Frameworks
