@@ -6,6 +6,8 @@ I am an aspiring **Front-End Developer** currently studying at LINK Academy, foc
 
 ### 🧰 Tech Stack & Tools I Use:
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:** React, Vue.js, Angular
+- **Backend & Database (Basics):** Node.js, Supabase
 - **Tools & Platforms:** Git, GitHub, VS Code
 - **Currently Learning:** Advanced JavaScript, Modern Web Frameworks
 
@@ -13,7 +15,8 @@ I am an aspiring **Front-End Developer** currently studying at LINK Academy, foc
 
 ### 🔭 Current Projects:
 Here are some of the projects I am currently working on:
-- 📌 **[Proiect 1](https://github.com/TNAlex/AuraStudio)** – Aplicație web responsive realizată în HTML/CSS/JS.
+- 📌 **[Project 1](https://github.com/TNAlex/AuraStudio)** – Platformă e-commerce complexă și interactivă destinată comercializării de îmbrăcăminte și bijuterii. Include un catalog complet de produse cu filtrare dinamică, pagini dedicate, galerie media și coș de cumpărături persistent. Construită cu HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+) și LocalStorage API.
+- 📌 **[Project 2](https://github.com/TNAlex/ToDo-List)** – Aplicație web interactivă pentru gestionarea sarcinilor zilnice | **Tehnologii:** HTML5, CSS3, JavaScript (ES6+), LocalStorage.
 
 ---
 
